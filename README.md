@@ -1,5 +1,5 @@
 # Piano and Shop App
-This is a piano and shop app which i have built while i was learning about gridviews.I have watched a video about the implementation of gridviews and then i thought of customizing it a bit to add somethings from my side.<br>
+This is a piano and shop app which i have built while i was learning about gridviews.I have watched a video about the implementation of gridviews and then thought of customizing it a bit to add somethings from my side.<br>
 **About the app:**<br>
 We have a Tabbar below the app bar in the initial home page of the screen. It has two screens there the user can navigate and find two unrelated things.<br>
 The first part of the screen has 9 tiles which are made using the gridview which has a list to generate those tiles. These tiles then have a button inside them which on pressed will play a different sound for each of the button.<br>
@@ -20,9 +20,9 @@ Built using:
 * Flutter
 ___
 Some snaps from the app: 
-<br>Watch original video with sound:-https://harshblog.xyz<br>
+<br>Watch original video with sound:-https://youtu.be/kshHjHTsPXs <br>
 
-![Gif from te video](https://media.giphy.com/media/QW9moD31DJOxrIskp7/giphy.gif)
+![Gif from te video](https://media.giphy.com/media/QW9moD31DJOxrIskp7/giphy.gif)<br>
 ![Snap from the app](https://res.cloudinary.com/harshkumarkhatri/image/upload/v1594711369/readme%20images/piano%20and%20shop/WhatsApp_Image_2020-07-14_at_12.52.06_PM_3_ffqixc.jpg)
 ![Gif from te video](https://res.cloudinary.com/harshkumarkhatri/image/upload/v1594711370/readme%20images/piano%20and%20shop/WhatsApp_Image_2020-07-14_at_12.52.06_PM_2_iewdwi.jpg)
 ![Gif from te video](https://res.cloudinary.com/harshkumarkhatri/image/upload/v1594711371/readme%20images/piano%20and%20shop/WhatsApp_Image_2020-07-14_at_12.52.06_PM_1_ceqm8x.jpg)
